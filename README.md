@@ -1,0 +1,2 @@
+# nodespy
+### a Sails application

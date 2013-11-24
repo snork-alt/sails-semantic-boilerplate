@@ -1,0 +1,54 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	font-size: 15px;
+	font-family: "Open Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.sign_in {
+	text-decoration: none;
+}
+
+.register {
+	text-decoration: none;
+}
+
+.antialiased {
+  -webkit-font-smoothing: antialiased;
+}
+
+.page_container {
+	width: 934px;
+	margin: auto;
+}
+
+.menu_container {
+	width: 960px;
+	margin: auto;
+}
+
+* {
+	margin: 0px;
+}
+
+html, body {
+	height: 100%;
+}
+
+.page-wrap {
+	min-height: 100%;
+	margin-bottom: -142px; /* equal to footer height */
+}
+
+.page-wrap:after {
+	content: "";
+	display: block;
+}
+
+.footer, .page-wrap:after {
+	height: 142px;
+}
+
+.footer {
+	text-align: center;
+}
