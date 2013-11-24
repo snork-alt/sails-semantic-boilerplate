@@ -1,2 +1,2 @@
 # sails-semantic-boilerplate
-### a Sails application with Semantic UI and a simple layout
+A Sails.js (v0.9.7) application with Semantic UI and a simple layout
